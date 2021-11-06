@@ -1,6 +1,6 @@
 ### Heyo
 
-I'm currently working at @Hyperfine helping build the first practical portable MRI scanner.
+I'm currently working at [Hyperfine](https://hyperfine.io) helping build the first practical portable MRI scanner.
 
 I have a Ph.D. in medical physics (mostly imaging, mostly MRI) but consider myself primarily a programmer.
 
