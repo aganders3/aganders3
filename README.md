@@ -1,6 +1,6 @@
 ### Heyo
 
-I'm currently working at [CZI](https://chanzuckerberg.com) working on open source software for scientific imaging.
+I'm currently working at [CZI](https://chanzuckerberg.com) on open source software for scientific imaging.
 
 I have a Ph.D. in medical physics (mostly imaging, mostly MRI) from the University of Wisconsin, but consider myself primarily a programmer.
 
